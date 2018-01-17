@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #eee;
+	width: 100%;
+	max-width: 900px;
+	margin: 0 auto;
+	font-family: "Helvetica neue", Helvetica Neue, Helvetica, Arial, sans-serif;
+}
