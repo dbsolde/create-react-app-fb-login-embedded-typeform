@@ -1,7 +1,11 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "rrepository": {
+    "type": "git",
+    "url": "https://github.com/dbsolde/create-react-app-fb-login-embedded-typeform.git"
+  },
+  "author": "Dennis Solde",
   "dependencies": {
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
