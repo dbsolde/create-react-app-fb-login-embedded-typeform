@@ -70,6 +70,8 @@ export default class Login extends Component {
 						<button onClick={this.loginHandler} className="loginBtn loginBtn--facebook" style={{marginTop:'20px'}}>
 							Login with Facebook
 						</button>
+
+                        <div className="fb-customerchat" page_id="134215830737500"></div>
 					</div>
 				}
 
